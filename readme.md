@@ -5,10 +5,12 @@ This is a 10 bit CPU. The first two bits of an instruction are the instruction t
 
 
 **01**01011101
+
 The rest of the bits are the operands:
 
 
 01**01011101**
+
 There are two operands for each instruction meaning one instruction takes 4 bits:
 
 
